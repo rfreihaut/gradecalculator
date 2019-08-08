@@ -1,0 +1,11 @@
+C:\Users\rfrei\source\repos\gradecalculator\obj\Debug\netcoreapp2.1\gradecalculator.csprojAssemblyReference.cache
+C:\Users\rfrei\source\repos\gradecalculator\obj\Debug\netcoreapp2.1\gradecalculator.csproj.CoreCompileInputs.cache
+C:\Users\rfrei\source\repos\gradecalculator\obj\Debug\netcoreapp2.1\gradecalculator.AssemblyInfoInputs.cache
+C:\Users\rfrei\source\repos\gradecalculator\obj\Debug\netcoreapp2.1\gradecalculator.AssemblyInfo.cs
+C:\Users\rfrei\source\repos\gradecalculator\bin\Debug\netcoreapp2.1\gradecalculator.deps.json
+C:\Users\rfrei\source\repos\gradecalculator\bin\Debug\netcoreapp2.1\gradecalculator.runtimeconfig.json
+C:\Users\rfrei\source\repos\gradecalculator\bin\Debug\netcoreapp2.1\gradecalculator.runtimeconfig.dev.json
+C:\Users\rfrei\source\repos\gradecalculator\bin\Debug\netcoreapp2.1\gradecalculator.dll
+C:\Users\rfrei\source\repos\gradecalculator\bin\Debug\netcoreapp2.1\gradecalculator.pdb
+C:\Users\rfrei\source\repos\gradecalculator\obj\Debug\netcoreapp2.1\gradecalculator.dll
+C:\Users\rfrei\source\repos\gradecalculator\obj\Debug\netcoreapp2.1\gradecalculator.pdb
